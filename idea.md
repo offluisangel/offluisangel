@@ -1,0 +1,1 @@
+todo esto es para probar el poner un repo publico con mi readme. pero primero quiero tenerlo listo y probado como se veria y todo eso.
