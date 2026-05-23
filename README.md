@@ -20,16 +20,27 @@ alt="Instagram" width="48" /></a>
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 8 mins         ████████████░░░░░░░░░░░░░   49.03 % 
+Markdown                 42 mins             ████████░░░░░░░░░░░░░░░░░   30.32 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 44 mins        ███████████████████░░░░░░   75.18 % 
+OpenCode                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Zed                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Obsidian                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+readme                   1 hr 28 mins        ████████████████░░░░░░░░░   63.78 % 
+Unknown Project          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+offluisangel             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Git                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+dead-links               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
