@@ -1,7 +1,20 @@
 ![Banner animado](./assets/banner.gif)
 
-<a href="https://instagram.com/offluisangel" target="_blank"><img src="./assets/ig.svg" 
-alt="Instagram" width="48" /></a>
+<p align="center">
+	</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://ligaf.vercel.app" target="_blank" rel="noreferrer">
+		<img src="./assets/icon-liga.png" alt="Liga F" width="32" height="32" />
+	</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://salsalive.vercel.app" target="_blank" rel="noreferrer">
+		<img src="./assets/salsa.svg" alt="Salsa Live" width="32" height="32" />
+	</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://luisangel.online/tools/heretics" target="_blank" rel="noreferrer">
+		<img src="./assets/heretics.png" alt="Heretics" width="32" height="32" />
+	</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://luisangel.online/tools/fifawc" target="_blank" rel="noreferrer">
+		<img src="./assets/fifawc.webp" alt="FIFA WC" width="32" height="32" />
+	</a>
+</p>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
