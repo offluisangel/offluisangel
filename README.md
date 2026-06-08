@@ -17,56 +17,33 @@
 </p>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-🌆 Daytime                44 commits          ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-🌃 Evening                63 commits          █████████░░░░░░░░░░░░░░░░   35.00 % 
-🌙 Night                  54 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               3 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.55 % 
-Markdown                 2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.89 % 
-JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+TypeScript               3 hrs 27 mins       ██████████████░░░░░░░░░░░   57.31 % 
+Markdown                 2 hrs               ████████░░░░░░░░░░░░░░░░░   33.30 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.28 % 
-Zed                      1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Obsidian                 1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Opencode Cli             53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-OpenCode                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Zed                      2 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   40.16 % 
+VS Code                  1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+Obsidian                 1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.86 % 
 
 🐱‍💻 Projects: 
-LigaF                    4 hrs 19 mins       █████████████░░░░░░░░░░░░   51.07 % 
-Unknown Project          1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-MyPage                   1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-offluisangel             41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-presu                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+MyPage                   4 hrs 19 mins       ██████████████████░░░░░░░   71.90 % 
+Unknown Project          1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+app                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+offluisangel             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TelegramBOT              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Windows                  8 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
 ```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               9 repos             █████████████░░░░░░░░░░░░   52.94 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-```
-
-
 
 
 <!--END_SECTION:waka-->
