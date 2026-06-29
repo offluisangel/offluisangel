@@ -22,25 +22,25 @@
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               5 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.78 % 
-Markdown                 2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-CSS                      1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-JavaScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+TypeScript               1 hr 41 mins        ██████████████░░░░░░░░░░░   54.40 % 
+Markdown                 1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   38.66 % 
+HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Zed                      10 hrs 50 mins      ███████████████████████░░   92.76 % 
-Obsidian                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Zed                      2 hrs 8 mins        █████████████████░░░░░░░░   68.55 % 
+Obsidian                 53 mins             ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🐱‍💻 Projects: 
-LigaF                    6 hrs 2 mins        █████████████░░░░░░░░░░░░   51.71 % 
-Unknown Project          1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-dashboard                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Taski                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-openbet                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+LigaF                    1 hr 55 mins        ███████████████░░░░░░░░░░   61.80 % 
+Unknown Project          49 mins             ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+offluisangel             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Ebook-Translator-Calibre-4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 💻 Operating System: 
-Windows                  11 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
