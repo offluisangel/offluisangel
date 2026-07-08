@@ -1,6 +1,6 @@
 ![Banner animado](./assets/banner.gif)
 
-<div align="center" style="display: flex; justify-content: center; gap: 2.5rem;">
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; gap: 1rem;">
 	<a href="https://futfemcolombia.site" target="_blank" rel="noreferrer">
 		<img src="./assets/icon-liga.png" alt="Liga F" width="32" height="32" />
 	</a>
@@ -9,9 +9,6 @@
 	</a>
 	<a href="https://luisangel.online/tools/heretics" target="_blank" rel="noreferrer">
 		<img src="./assets/heretics.png" alt="Heretics" width="32" height="32" />
-	</a>
-	<a href="https://luisangel.online/tools/fifawc" target="_blank" rel="noreferrer">
-		<img src="./assets/fifawc.webp" alt="FIFA WC" width="32" height="32" />
 	</a>
 </div>
 
