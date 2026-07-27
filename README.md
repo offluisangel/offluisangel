@@ -19,26 +19,25 @@
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               1 hr 40 mins        ██████████████░░░░░░░░░░░   54.76 % 
-Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Markdown                 2 hrs 29 mins       ██████████████░░░░░░░░░░░   54.00 % 
+TypeScript               1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 Editors: 
-Zed                      2 hrs 19 mins       ███████████████████░░░░░░   76.58 % 
-Obsidian                 36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Claude Code              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Zed                      2 hrs 56 mins       ████████████████░░░░░░░░░   63.76 % 
+Obsidian                 1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   36.24 % 
 
 🐱‍💻 Projects: 
-LigaF                    1 hr 18 mins        ███████████░░░░░░░░░░░░░░   42.91 % 
-Unknown Project          47 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-dashboard                30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-IGDownload               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-prueba                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Unknown Project          1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   40.49 % 
+LigaF                    1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+IGDownload               42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+dashboard                36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+TwitchNoSub              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 💻 Operating System: 
-Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
