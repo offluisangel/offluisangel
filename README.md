@@ -19,25 +19,44 @@
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Markdown                 2 hrs 29 mins       ██████████████░░░░░░░░░░░   54.00 % 
-TypeScript               1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript               1 hr 21 mins        ███████████░░░░░░░░░░░░░░   44.15 % 
+Markdown                 1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   39.59 % 
+YAML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+shell script             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-Zed                      2 hrs 56 mins       ████████████████░░░░░░░░░   63.76 % 
-Obsidian                 1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   36.24 % 
+Zed                      2 hrs 13 mins       ██████████████████░░░░░░░   72.69 % 
+Obsidian                 50 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   40.49 % 
-LigaF                    1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-IGDownload               42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-dashboard                36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-TwitchNoSub              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+LigaF                    2 hrs 13 mins       ██████████████████░░░░░░░   72.69 % 
+Unknown Project          50 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
 
 💻 Operating System: 
-Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 51 mins (60.72%)
+
+✍️ 77 lines written by AI, 20 lines written by hand (79.38% AI-written)
+
+🔤 321,432 Input Tokens, 21,583 Output Tokens
+
+💵 $1.29 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 20 AI Prompts
+
+Deepseek                 139 lines           █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 79.38% of written lines came from AI
+📄 Detailed Prompter — average 629 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 13.12% of changed lines were hand-edited
 ```
 
 
