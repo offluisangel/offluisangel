@@ -13,52 +13,34 @@
 </div>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2028%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Markdown                 6 hrs 34 mins       ███████████████████████░░   93.70 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown                 6 hrs 30 mins       █████████████████████░░░░   84.27 % 
+XML                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 58 mins       █████████████████████████   99.28 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Obsidian                 6 hrs 53 mins       ██████████████████████░░░   89.35 % 
+Zed                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 38 mins       ████████████████████████░   94.64 % 
-Metodos Numericos        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-LigaF                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Unknown Project          6 hrs 41 mins       ██████████████████████░░░   86.65 % 
+modstawdewvalley         37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Metodos Numericos        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+LigaF                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Stardew Valley           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Windows                  7 hrs 1 min         █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 29 mins (6.95%)
-
-✍️ 1,267 lines written by AI, 4 lines written by hand (99.69% AI-written)
-
-🔤 385,298 Input Tokens, 37,640 Output Tokens
-
-💵 $1.72 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 5 AI Prompts
-
-Opencode-Cli             1,157 lines         ███████████████████████░░   91.32 % 
-Github-Copilot           110 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📝 Concise Prompter — average 206 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.09% of changed lines were hand-edited
+Windows                  7 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
