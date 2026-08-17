@@ -19,26 +19,25 @@
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Markdown                 6 hrs 30 mins       █████████████████████░░░░   84.27 % 
-XML                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Markdown                 4 hrs 58 mins       ███████████████░░░░░░░░░░   61.96 % 
+TypeScript               1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+XML                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+C#                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 53 mins       ██████████████████████░░░   89.35 % 
-Zed                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Zed                      5 hrs 16 mins       ████████████████░░░░░░░░░   65.59 % 
+Obsidian                 2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.41 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 41 mins       ██████████████████████░░░   86.65 % 
-modstawdewvalley         37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Metodos Numericos        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-LigaF                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Stardew Valley           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+FutFemColombia           3 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.71 % 
+Unknown Project          3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.03 % 
+Stardew Valley           43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+modstawdewvalley         37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+betbot                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Windows                  7 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
