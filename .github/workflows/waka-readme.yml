@@ -9,6 +9,8 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: anmol098/waka-readme-stats@v5
         with:
@@ -24,5 +26,3 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_COMMIT: "False"
-          SHOW_AI_CODING: "False"
-          SHOW_AI_CODE_TIME: "False"
