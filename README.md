@@ -41,29 +41,4 @@ docsprivado              3 mins              ░░░░░░░░░░░�
 Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 58 mins (42.03%)
-
-✍️ 7,351 lines written by AI, 508 lines written by hand (93.54% AI-written)
-
-🔤 3,075,192 Input Tokens, 9,325 Output Tokens
-
-💵 $9.72 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 31 AI Prompts
-
-Github-Copilot           7,352 lines         █████████████████████████   99.99 % 
-Spark                    1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.54% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 11.26% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:waka-->
