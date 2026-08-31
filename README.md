@@ -19,50 +19,50 @@
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Markdown                 3 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.52 % 
-TypeScript               1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Python                   1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-jsonc                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Markdown                 2 hrs 42 mins       ██████████████░░░░░░░░░░░   57.48 % 
+TypeScript               1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+jsonc                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Zed                      3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
-Obsidian                 2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-VS Code                  2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+VS Code                  2 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.80 % 
+Obsidian                 1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   40.08 % 
+Zed                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 
 🐱‍💻 Projects: 
-FutFemColombia           3 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.40 % 
-Unknown Project          3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.91 % 
-iglives                  1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-terremoto-colombia-2026  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-docsprivado              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+FutFemColombia           2 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.49 % 
+Unknown Project          2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.97 % 
+Scripts                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+offluisangel             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+docsprivado              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Windows                  7 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 44 mins (47.09%)
+⏱ AI Coding Time: 1 hr 58 mins (42.03%)
 
-✍️ 7,762 lines written by AI, 305 lines written by hand (96.22% AI-written)
+✍️ 7,351 lines written by AI, 508 lines written by hand (93.54% AI-written)
 
-🔤 23,313,585 Input Tokens, 82,579 Output Tokens
+🔤 3,075,192 Input Tokens, 9,325 Output Tokens
 
-💵 $76.83 Estimated AI Cost This Week
+💵 $9.72 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 43 AI Prompts
+🧠 9 AI Sessions, 31 AI Prompts
 
-Github-Copilot           6,783 lines         ██████████████████████░░░   87.33 % 
-Opencode-Cli             603 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Spark                    381 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Github-Copilot           7,352 lines         █████████████████████████   99.99 % 
+Spark                    1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.22% of written lines came from AI
-📝 Concise Prompter — average 187 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.06% of changed lines were hand-edited
+🤖 AI-Driven — 93.54% of written lines came from AI
+📝 Concise Prompter — average 158 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 11.26% of changed lines were hand-edited
 ```
 
 
