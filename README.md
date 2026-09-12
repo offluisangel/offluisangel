@@ -7,7 +7,7 @@
 	<a href="https://salsalive.vercel.app" target="_blank" rel="noreferrer">
 		<img src="./assets/salsa.svg" alt="Salsa Live" width="32" height="32" />
 	</a>
-	<a href="https://luisangel.online/tools/heretics" target="_blank" rel="noreferrer">
+	<a href="https://hereticstracker.vercel.app" target="_blank" rel="noreferrer">
 		<img src="./assets/heretics.png" alt="Heretics" width="32" height="32" />
 	</a>
 </div>
