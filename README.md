@@ -1,6 +1,6 @@
 ![Banner animado](./assets/banner.gif)
 
-<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; gap: 1rem;">
+<p align="center">
 	<a href="https://futfemcolombia.site" target="_blank" rel="noreferrer">
 		<img src="./assets/icon-liga.png" alt="Liga F" width="32" height="32" />
 	</a>
@@ -10,36 +10,39 @@
 	<a href="https://hereticstracker.vercel.app" target="_blank" rel="noreferrer">
 		<img src="./assets/heretics.png" alt="Heretics" width="32" height="32" />
 	</a>
-</div>
+</p>
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+<!--START_SECTION:cards-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/summary-dark.svg">
+    <img src="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/summary-light.svg" width="400" alt="GitHub activity summary">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/languages-dark.svg">
+    <img src="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/languages-light.svg" width="400" alt="Most used languages">
+  </picture>
+</p>
 
-```text
-🕑︎ Time Zone: America/Bogota
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/contributions-dark.svg">
+    <img src="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/contributions-light.svg" width="400" alt="Notable contributions">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/repos-dark.svg">
+    <img src="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/repos-light.svg" width="400" alt="Top public repositories">
+  </picture>
+</p>
 
-💬 Programming Languages: 
-TypeScript               3 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.36 % 
-Markdown                 2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.08 % 
-JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-
-🔥 Editors: 
-Zed                      3 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.18 % 
-VS Code                  2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.16 % 
-Obsidian                 1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-
-🐱‍💻 Projects: 
-FutFemColombia           5 hrs 5 mins        ████████████████░░░░░░░░░   62.61 % 
-Unknown Project          1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Dev                      1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-WEB PAGES                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-lib                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-
-💻 Operating System: 
-Windows                  8 hrs 7 mins        █████████████████████████   100.00 % 
-```
-
-
-<!--END_SECTION:waka-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/weekly-dark.svg">
+    <img src="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/weekly-light.svg" width="400" alt="Weekly contribution rhythm">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/streaks-dark.svg">
+    <img src="https://raw.githubusercontent.com/offluisangel/offluisangel/cards/streaks-light.svg" width="400" alt="Contribution streaks">
+  </picture>
+</p>
+<!--END_SECTION:cards-->

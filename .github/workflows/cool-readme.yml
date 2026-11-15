@@ -1,0 +1,52 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+      - name: Generate OLED cards
+        uses: pedrocatalao/github-cool-readme@59b32f7b913731951eaa43f79fd01860b8ff29ad # v1 at setup
+        with:
+          token: ${{ secrets.CARDS_TOKEN }}
+          config: cool-readme.yml
+          output: ${{ runner.temp }}/cards
+      - name: Publish SVGs to the cards branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          for card in summary languages contributions repos weekly streaks; do
+            for theme in dark light; do
+              test -s "$RUNNER_TEMP/cards/$card-$theme.svg"
+            done
+          done
+          if git show-ref --verify --quiet refs/remotes/origin/cards; then
+            git switch --create cards --track origin/cards
+          else
+            git switch --orphan cards
+          fi
+          cp "$RUNNER_TEMP"/cards/*.svg .
+          git add -- *.svg
+          if git diff --cached --quiet; then
+            echo "No card changes"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: update README cards'
+          git push origin HEAD:cards

@@ -1,0 +1,12 @@
+user: offluisangel
+
+show: [summary, languages, contributions, repos, weekly, streaks]
+
+count:
+  private: false
+  orgs: false
+
+look:
+  style: oled
+  color: purple
+  background: 0b0710
