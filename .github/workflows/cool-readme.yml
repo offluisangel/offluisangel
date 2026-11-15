@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: '17 4 * * *'
+    - cron: '17 13 * * 1' # Mondays at 08:17 in Colombia (UTC-5)
   workflow_dispatch:
 
 permissions:
