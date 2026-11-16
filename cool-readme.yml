@@ -3,8 +3,8 @@ user: offluisangel
 show: [summary, languages, contributions, repos, weekly, streaks]
 
 count:
-  private: false
-  orgs: false
+  private: true
+  orgs: true
 
 look:
   style: oled
